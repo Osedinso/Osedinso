@@ -2,8 +2,8 @@
 
 
 
-I am Jeremy Osedinso Richard-Ikediashi and I am a freshman at McNeese state University pursuing a degree in computer science.
-- 🌱 I’m currently learning java and object oriented programming
+I am Jeremy Osedinso Richard-Ikediashi and I am a senior at McNeese state University pursuing a degree in computer science.
+- 🌱 I’m currently learning about large language models and the MERN stack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing soccer
 
